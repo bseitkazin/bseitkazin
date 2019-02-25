@@ -37,7 +37,7 @@
     - Improved Governance BI platform for Ministry of the Finance, Department of the Treasure. Transformed old reports to the new one, added new type of report, participated in creating data collecting store using Pentaho, created new stored procedures and business logic in Java for Oracle BI Publisher.
     - Developed ERP system for the Department of the Treasure using Oracle E-Business Suite. Created new business workflows, updated legacy parts, integrated with other governance systems, improved user management platform, injected role based action control paradigm. 
     - Developed and maintained ERP system for the Ministry of the Finance, Department of the Audit. Used SAP as core platform, business logic has developed using Java tech stack. Created Risk Management System, where we implemented scoring system of organizations, to predict, which pool of organization to take for auditing. 
-    - <mark>Java</mark>, <mark>Tomcat</mark>, <mark>Weblogic</mark>, <mark>JSF</mark>, <mark>IceFaces</mark>, <mark>Oracle 10/11g</mark>, <mark>PL/SQL</mark>, <mark>OeBS</mark>, <mark>BI Publisher</mark>, <mark>FICO Blaze Advisor</mark>, <mark>Oracle Application Forms</mark>, <mark>JBoss Seam</mark></mark>, <mark>TestNG</mark>, <mark>Hibernate</mark>.
+    - <mark>Java</mark>, <mark>Tomcat</mark>, <mark>Weblogic</mark>, <mark>JSF</mark>, <mark>IceFaces</mark>, <mark>Oracle 10/11g</mark>, <mark>PL/SQL</mark>, <mark>OeBS</mark>, <mark>BI Publisher</mark>, <mark>FICO Blaze Advisor</mark>, <mark>Oracle Application Forms</mark>, <mark>JBoss Seam</mark>, <mark>TestNG</mark>, <mark>Hibernate</mark>.
 
 - company: Kazkom Bank JSC
   dates: February 2014 - September 2014
