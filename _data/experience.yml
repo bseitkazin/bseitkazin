@@ -3,14 +3,11 @@
   job_title: Lead Java Developer
   dates: November 2018 - Present
   quote: >
-   We create digital bank for B2B sector, migrate our business customers from offline to online.
+    We create digital bank for B2B sector, migrate our business customers from offline to online.
   description: | # this will include new lines to allow paragraphs
     - Migrate from old-legacy monolith system to micro-services architecture, now we have NodeJs, Go and Java services, managing them using Docker and Kubernetes.
-
     - Created new user authorization and authentication service, to provide flexible token-based service, for our web, mobile and Open API platforms.
-
     - Create new application system for our managers, to give them ability smoothly and conveniently serve our business customers, like register account, open/close the bill accounts, share their accounts with other, and link e-digital token signatures.
-
     - <mark>Java</mark>, <mark>JavaScript</mark>, <mark>Go</mark>, <mark>Spring Boot</mark>, <mark>Spring Security</mark>, <mark>Spring Data</mark>, <mark>Hibernate</mark>, <mark>REST</mark>, <mark>OAuth2</mark>, <mark>SSO</mark>, <mark>Junit</mark>, <mark>Spring Test</mark>, <mark>React</mark>, <mark>Redux</mark>, <mark>React Forms</mark>, <mark>Docker</mark>, <mark>Jenkins</mark>, <mark>Spring Cloud Config</mark>, <mark>Eureka Service Registry</mark>, <mark>Consul</mark>, <mark>Zuul API Gateway</mark>.
 
 - company: Beeline LLP, VEON Group
@@ -18,7 +15,7 @@
   dates: October 2017 - November 2018
   job_title: Senior Java Developer and Tech Lead
   quote: >
-   Large telecommunication company, using existing telecommunication platforms, we create digital products for front offices, customers, and business partners.
+    Large telecommunication company, using existing telecommunication platforms, we create digital products for front offices, customers, and business partners.
   description: |
     - Created backend using micro-services architecture for web and mobile API.
     - Implemented Service Gateway to proxy, log, and secure all requests to micro-services.
@@ -46,7 +43,7 @@
   dates: February 2014 - September 2014
   job_title: Java Developer
   quote: >
-   	Created large banking platform for corporate clients.
+    Created large banking platform for corporate clients.
   description: |
     - Produced new components for the front-end using Apache Wicket, like account statement, account reports, account statement exports in various formats for tax service or local CRM systems.
     - Produced Amex (American Express) as new payment type for our customers End-to-End, from extending Oracle’s Stored Procedures to Java Services.
