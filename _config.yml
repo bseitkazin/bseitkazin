@@ -1,0 +1,82 @@
+# Site
+repository: bseitkazin/bseitkazin.github.io
+# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+
+# Personal info
+name: Bakytzhan Seitkazin
+title: Senior Java Developer
+email: bakytzhan.seitkazin@gmail.com
+
+# Social links
+twitter_username: RaundRobin
+github_username:  bseitkazin
+linkedin_username: bseitkazin
+
+# About Section
+# about_title: About Me (Use this to override about section title)
+about_profile_image: img/avatar-minified.jpg
+about_content: | # this will include new lines to allow paragraphs
+
+  Hi, I am professional software developer with experience in commercial development in Java more than 5 years.
+  I am currently working for Alfa Bank as a Senior Java Developer on a commercial B2B banking platform.
+  
+  I enjoy making clean testable code and scalable applications. I have worked with a range of different languages and frameworks and I am always looking for opportunities to work
+  with something new. The things that I currently have the most experience working with are:
+  <mark>Java</mark>,
+  <mark>Spring</mark>,
+  <mark>Spring Boot</mark>,
+  <mark>Spring Security</mark>,
+  <mark>Spring MVC</mark>,
+  <mark>Spring Cloud</mark>,
+  <mark>Spring OAuth2</mark>,
+  <mark>Spring Data &amp; Hibernate</mark>,
+  <mark>JEE</mark>,
+  <mark>REST &amp; SOAP</mark>,
+  <mark>Tomcat</mark>,
+  <mark>Docker</mark>,
+  <mark>Maven</mark>,
+  <mark>Spring</mark>,
+  <mark>Postgres</mark>,
+  <mark>Oracle</mark>,
+  <mark>OeBS &amp; ADF</mark>,
+  <mark>JSF &amp; IceFaces</mark>,
+  <mark>Angular</mark>.
+
+
+# Projects Section
+# projects_title: Projects #(Use this to override about projects section title)
+
+# Experience Section
+# experience_title: Experience #(Use this to override about experience section title)
+
+# Education Section
+# educaton_title: Education #(Use this to override about education section title)
+
+# More Section
+more_title: A Little More About Me
+more_content: | # this will include new lines to allow paragraphs
+  When I am not programming, I prefer to jogging, read science fiction books (my favourite is Dune), climb to mountain, cycle bike and Jiu Jitsuю
+  
+  In the last few years, I use a lot of microservcies arhitecture, creating new one and migrating from old legacy codebase. 
+  But, microservices architecture is not aim, I always try to choose the right tool for the project depending on the business needs.
+  Also prefer Amazon's slogan - if you build it, you run it. Always try to create CI/CD pipeline for my services.
+  
+  For my pet projects I would like to use PHP and Python programming languages, for scripting and making prototypes.
+  
+  Before starting coding, I prefer to draw system design using UML. It is cheaper to make changes in diagrams, rather than in code base.
+  
+  And I believe that, simplicity is a key. Because it is easy to make complicated systems, but it is hard to make straightforward systems.
+
+# Footer
+footer_show_references: false
+
+# Build settings
+# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
+# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
